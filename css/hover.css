@@ -1,4 +1,15 @@
+/*!
+ * Hover.css (http://ianlunn.github.io/Hover/)
+ * Version: 2.0.2
+ * Author: Ian Lunn @IanLunn
+ * Author URL: http://ianlunn.co.uk/
+ * Github: https://github.com/IanLunn/Hover
 
+ * Made available under a MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+
+ * Hover.css Copyright Ian Lunn 2014. Generated with Sass.
+ */
 
 /* 2D TRANSITIONS */
 
@@ -3881,7 +3892,7 @@
 .hvr-icon-fade:hover:before,
 .hvr-icon-fade:focus:before,
 .hvr-icon-fade:active:before {
-    color: #0F9E5E;
+    color: rgb(5, 74, 1) 158, 39);
 }
 
 /* Icon Float Away */
